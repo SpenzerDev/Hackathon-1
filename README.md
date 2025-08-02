@@ -2,7 +2,7 @@
  Overview
 This is a responsive personal portfolio website built with HTML and CSS. The portfolio showcases my skills, education, projects, and contact information in a clean, modern design.
 
- Features
+## Features
 
    Main Sections
 1. **About Me** - Introduction and profile picture
