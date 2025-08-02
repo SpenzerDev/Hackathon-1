@@ -19,16 +19,16 @@ This is a responsive personal portfolio website built with HTML and CSS. The por
 - Font Awesome icons for visual elements
 - Clean navigation system
 
- Dependencies
+## Dependencies
 - [Font Awesome 6](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css) - For icons
 
- How to Use
+## How to Use
 1. Clone or download the repository
 2. Open `index.html` in any modern web browser
 3. Navigate through sections using the navigation menu
 
 
- Browser Support
+## Browser Support
 The portfolio is designed to work in all modern browsers including:
 - Chrome
 - Firefox
