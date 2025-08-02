@@ -36,4 +36,3 @@ The portfolio is designed to work in all modern browsers including:
 - Edge
 
 
-## Contact
